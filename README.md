@@ -12,7 +12,7 @@ Computer Science graduate student at Southern New Hampshire University (M.S., AI
 Evaluated AI-generated code for correctness and efficiency, benchmarking the AI's effectiveness against manual review and iterating on prompting strategy to improve solution quality.
 `AI Prompt Engineering` `Code Review`
 
-### 🕹️ [AI-Assisted Platformer](https://github.com/jocooper7/cs530_platformer))
+### 🕹️ [AI-Assisted Platformer](https://github.com/jocooper7/cs530_platformer)
 Built a basic platforming game using AI as a development tool, exploring how AI-assisted generation holds up for interactive, stateful program logic rather than one-off scripts.
 `AI-Assisted Development` `Game Logic`
 
