@@ -8,7 +8,7 @@ jmwcooper7@gmail.com &nbsp;|&nbsp; Burbank, CA
 
 ## Academic Projects
 
-### [Code Inspection with AI]([https://github.com/jocooper7/AI_Principles_and_Applications/tree/main/Module-3-Assignment](https://github.com/jocooper7/AI_Principles_and_Applications/tree/574ea59f1f0b95981b1a4de66f5c8eb328cdc573/Module%203%20Assignment)) 
+### [Code Inspection with AI](https://github.com/jocooper7/AI_Principles_and_Applications/tree/574ea59f1f0b95981b1a4de66f5c8eb328cdc573/Module%203%20Assignment)
 Evaluated AI-generated code for correctness and efficiency, benchmarking the AI's effectiveness against manual review and iterating on prompting strategy to improve solution quality.
 `AI Prompt Engineering` `Code Review`
 
@@ -16,11 +16,11 @@ Evaluated AI-generated code for correctness and efficiency, benchmarking the AI'
 Built a basic platforming game using AI as a development tool, exploring how AI-assisted generation holds up for interactive, stateful program logic rather than one-off scripts.
 `AI-Assisted Development` `Game Logic`
 
-### [County Vehicle Statistics Program]([Module 9 Project/demo](https://github.com/jocooper7/Data_Structures_and_Algorithms/tree/a189cfe3477a6a70b167bd577911de4d3751fbfe/Module%209%20Project/demo))
+### [County Vehicle Statistics Program](https://github.com/jocooper7/Data_Structures_and_Algorithms/tree/a189cfe3477a6a70b167bd577911de4d3751fbfe/Module%209%20Project/demo)
 Java command-line application that reads a CSV file of county-level vehicle statistics and generates output CSV's
 `Java` `DAO` `MVC`
 
-### [Data Visualization with Jupyter]([https://github.com/jocooper7/Data_Analytics_and_Visualization/blob/main/Module-Six-Activity.html](https://github.com/jocooper7/Data_Analytics_and_Visualization/blob/e675c569e5224093c105700267f0fc02a67e81cd/Module-Six-Activity.html))
+### [Data Visualization with Jupyter](https://github.com/jocooper7/Data_Analytics_and_Visualization/blob/e675c569e5224093c105700267f0fc02a67e81cd/Module-Six-Activity.html)
 Cleaned and processed large CSV datasets with Pandas and NumPy, then built exploratory visualizations in Plotly, Matplotlib, and Seaborn to surface trends in the data. 
 `Python` `Pandas` `Data Visualization`
 
