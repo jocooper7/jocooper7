@@ -36,6 +36,3 @@ Python command-line program that evaluates a 5x5 match-up differential matrix to
 
 *Each project's README has more detail on setup and approach — happy to walk through the code in more depth on request.*
 
----
-
-*Each project's README has more detail on setup and approach — happy to walk through the code in more depth on request.*
