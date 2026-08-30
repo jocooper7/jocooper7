@@ -8,7 +8,7 @@ jmwcooper7@gmail.com &nbsp;|&nbsp; Burbank, CA
 
 ## Academic Projects
 
-### [Code Inspection with AI](https://github.com/jocooper7/AI_Principles_and_Applications/tree/574ea59f1f0b95981b1a4de66f5c8eb328cdc573/Module%203%20Assignment)
+### [Code Inspection with AI](https://github.com/jocooper7/AI_Principles_and_Applications/blob/main/README.md)
 Evaluated AI-generated code for correctness and efficiency, benchmarking the AI's effectiveness against manual review and iterating on prompting strategy to improve solution quality.
 `AI Prompt Engineering` `Code Review`
 
