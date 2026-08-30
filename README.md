@@ -8,11 +8,11 @@ jmwcooper7@gmail.com &nbsp;|&nbsp; Burbank, CA
 
 ## Academic Projects
 
-### [AI Code Analysis & Neural Network Fundamentals](https://jocooper7.github.io/AI_Principles_and_Applications/Module%209%20Final/Final%20Project%20Documentation.pdf) [Copilot Conversation](https://github.com/jocooper7/AI_Principles_and_Applications/blob/main/Module%209%20Final/formatted-final-log.md) [Generated Code](https://github.com/jocooper7/AI_Principles_and_Applications/blob/main/Module%209%20Final/v3_neural_net.py)
+### [AI Code Analysis & Neural Network Fundamentals](https://jocooper7.github.io/AI_Principles_and_Applications/Module%209%20Final/Final%20Project%20Documentation.pdf) - [Copilot Conversation](https://github.com/jocooper7/AI_Principles_and_Applications/blob/main/Module%209%20Final/formatted-final-log.md) - [Generated Code](https://github.com/jocooper7/AI_Principles_and_Applications/blob/main/Module%209%20Final/v3_neural_net.py)
 Final project for AI Applications and Principles. Used GitHub Copilot to debug two code snippets for syntax and logic errors, then used it to build a small set of core ML components from scratch: a single neuron function, a binary classifier using both sigmoid and step activations, a synthetic dataset generator, and a weight calculation function. Paired the technical work with a written assessment evaluating Copilot's capabilities and limitations as a coding tool, and analyzing the ethical and workforce implications of adopting AI coding assistants at the company level.
 `AI-Assisted Development` `Neural Network Fundamentals` `AI Ethics`
 
-### [AI-Assisted Platformer](https://github.com/jocooper7/cs530_platformer/blob/main/main.py) [Copilot Conversation](https://github.com/jocooper7/cs530_platformer/blob/main/platformer-project-setup-log.md)
+### [AI-Assisted Platformer](https://github.com/jocooper7/cs530_platformer/blob/main/main.py) - [Copilot Conversation](https://github.com/jocooper7/cs530_platformer/blob/main/platformer-project-setup-log.md)
 Built a basic platforming game using AI as a development tool, exploring how AI-assisted generation holds up for interactive, stateful program logic rather than one-off scripts.
 `AI-Assisted Development` `Game Logic`
 
